@@ -22,6 +22,8 @@ public class CollectionsTree {
 		System.out.println(size);
 		
 		//Clone The ArrayList
+		@SuppressWarnings("unchecked")
+		//There was no proof this was a burden to the code.
 		TreeMap<String, Integer> user = (TreeMap<String, Integer>) player.clone();
 		System.out.println(user);
 		
