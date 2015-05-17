@@ -20,6 +20,8 @@ public class CollectionsArrayList {
 		System.out.println(size);
 		
 		//Clone The ArrayList
+		@SuppressWarnings("unchecked")
+		//No proof of the unchecked being an hinderence.
 		ArrayList<Integer> user = (ArrayList<Integer>) player.clone();
 		System.out.println(user);
 		
