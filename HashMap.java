@@ -22,6 +22,8 @@ public class CollectionsHashMap {
 		System.out.println(size);
 		
 		//Clone The ArrayList
+		@SuppressWarnings("unchecked")
+		//there was no legitimacy to the warning.
 		HashMap<String, Integer> user = (HashMap<String, Integer>) player.clone();
 		System.out.println(user);
 		
