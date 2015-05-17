@@ -1,0 +1,12 @@
+# Cit-360-Portfolio-of-Understanding
+
+Week Three Notes.
+-I revised all the java collections. I also found that the minor errors started producing like big errors and I found a way to
+remove the issue.
+
+-I tried setting UP a server, of which should be able to run and bring back a message; or so the example says. I read over it. I
+know that it is supposed to run since I watched a similar code on youtube work just fine. I just do not know it is not running
+with me. It was mentioned that possibly the android library needs to be installed for it to run, is that true?
+
+Well any help you can show me would be great since being able to have an android app/device communicate with a website would be
+almost as important as haveing the classes able to talk among themselves.
